@@ -1,0 +1,5 @@
+venv
+./venv/
+*.mwb
+*.mwb.bak
+__pycache__
